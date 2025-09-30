@@ -66,14 +66,14 @@ app.use((req: Request, res: Response) => {
   res.status(404).json({ error: "Not Found" });
 });
 
-app.listen(port, () => {
-  logger.info("Server started successfully", {
-    environment: process.env.NODE_ENV ?? "development",
-    nodeVersion: process.version,
-    port,
-  });
-  console.log(`Example app listening on port ${port}`);
-});
+// app.listen(port, () => {
+//   logger.info("Server started successfully", {
+//     environment: process.env.NODE_ENV ?? "development",
+//     nodeVersion: process.version,
+//     port,
+//   });
+//   console.log(`Example app listening on port ${port}`);
+// });
 
 // Graceful shutdown
 process.on("SIGTERM", () => {
