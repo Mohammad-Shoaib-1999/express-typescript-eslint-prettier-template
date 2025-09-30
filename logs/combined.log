@@ -1,0 +1,25 @@
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-29T17:02:11.761Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-29T17:02:12.667Z"}
+{"ip":"::1","level":"info","message":"Root route accessed","service":"express-api","timestamp":"2025-09-29T17:05:33.822Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"GET / 304 - - 5.658 ms","service":"express-api","timestamp":"2025-09-29T17:05:33.831Z"}
+{"level":"info","message":"GET /health 200 102 - 1.613 ms","service":"express-api","timestamp":"2025-09-29T17:06:23.202Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"express-api","timestamp":"2025-09-29T17:10:28.402Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-29T17:44:50.930Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-29T17:44:52.014Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-29T17:44:58.899Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-30T09:01:05.018Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-30T09:01:05.989Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-30T10:13:46.994Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-30T10:13:47.811Z"}
+{"ip":"::1","level":"info","message":"Root route accessed","service":"express-api","timestamp":"2025-09-30T10:14:01.895Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"GET / 304 - - 7.470 ms","service":"express-api","timestamp":"2025-09-30T10:14:01.908Z"}
+{"level":"info","message":"GET /health 200 102 - 1.282 ms","service":"express-api","timestamp":"2025-09-30T10:14:25.806Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"express-api","timestamp":"2025-09-30T10:14:32.897Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-30T10:16:38.276Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"express-api","timestamp":"2025-09-30T10:16:57.071Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-30T10:20:40.431Z"}
+{"ip":"::1","level":"info","message":"Root route accessed","service":"express-api","timestamp":"2025-09-30T10:20:46.033Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"}
+{"level":"info","message":"GET / 304 - - 8.286 ms","service":"express-api","timestamp":"2025-09-30T10:20:46.045Z"}
+{"level":"info","message":"GET /health 200 102 - 1.396 ms","service":"express-api","timestamp":"2025-09-30T10:20:50.165Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"express-api","timestamp":"2025-09-30T10:20:57.689Z"}
+{"environment":"development","level":"info","message":"Server started successfully","nodeVersion":"v22.13.1","port":3000,"service":"express-api","timestamp":"2025-09-30T10:26:49.114Z"}
